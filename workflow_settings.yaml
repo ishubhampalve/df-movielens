@@ -1,4 +1,4 @@
 defaultProject: project-9c722e61-78a2-41bc-972
-defaultDataset: dataform-demo
+defaultDataset: dataform_demo
 defaultAssertionDataset: dataform_assertions
 dataformCoreVersion: 3.0.42
