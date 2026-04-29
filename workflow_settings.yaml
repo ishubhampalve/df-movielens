@@ -1,4 +1,4 @@
-defaultProject: project-9c722e61-78a2-41bc-972
-defaultDataset: dataform_demo
+defaultProject: movielens-project-494814
+defaultDataset: dataform
 defaultAssertionDataset: dataform_assertions
-dataformCoreVersion: 3.0.42
+dataformCoreVersion: 3.0.52
