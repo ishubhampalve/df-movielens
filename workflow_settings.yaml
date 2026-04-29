@@ -1,4 +1,9 @@
 defaultProject: movielens-project-494814
-defaultDataset: dataform
-defaultAssertionDataset: dataform_assertions
+defaultLocation: us-central1
+defaultDataset: movielens
+defaultAssertionDataset: movielens_assertions
 dataformCoreVersion: 3.0.52
+vars:
+    LOAD_GCS_BUCKET: movielens-inbound/movielens
+    RAW_DATA: movielens_staging
+    TARGET_DATA: movielens_gold
