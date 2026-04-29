@@ -5,5 +5,5 @@ defaultAssertionDataset: movielens_assertions
 dataformCoreVersion: 3.0.52
 vars:
     LOAD_GCS_BUCKET: movielens-inbound/movielens
-    RAW_DATA: movielens_staging
-    TARGET_DATA: movielens_gold
+    RAW_DATA: movielens_staging #this dataset is not created manually
+    TARGET_DATA: movielens_gold #this dataset is not created manually
